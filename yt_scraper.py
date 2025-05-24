@@ -1,6 +1,6 @@
 from googleapiclient.discovery import build
 
-API_KEY = "TU_YOUTUBE_API_KEY"  # Pon aquí tu clave de YouTube API
+API_KEY = AIzaSyA7khN4fCCfbILiknlPh0o9DVSWaTZ_PQs  # Pon aquí tu clave de YouTube API
 
 youtube = build('youtube', 'v3', developerKey=API_KEY)
 
